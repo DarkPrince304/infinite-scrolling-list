@@ -1,0 +1,14 @@
+
+.message-box__card {
+    max-width: 500px;
+    margin: 8px 16px;
+    padding: 16px;
+}
+
+.message-box__author-text {
+    font-weight: 500
+}
+
+.message-box__time {
+    color: #333;
+}
